@@ -7,7 +7,11 @@
     })
 </script>
 
-<h1 class="text-3xl mb-10">A fun little sandbox game</h1>
+<h1 class="text-3xl mb-10">
+    A 
+    <span class="text-yellow-300 font-bold">fun</span>
+    little sandbox game
+</h1>
 
 <h2 class="font-bold tracking-widest">Controls</h2>
 <div class="flex gap-8">
